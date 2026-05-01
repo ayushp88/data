@@ -1,0 +1,7 @@
+{
+    "seed": 42,
+    "coqa_source": "../data/datasets/coqa-train-v1.0.json",
+    "math_source": "../data/datasets/math.jsonl",
+    "svamp_source": "../data/datasets/SVAMP.json",
+    "status": "completed"
+}
